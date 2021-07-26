@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "D8T6SBVzwz84mZWCMVXqk+0z3KThyVNNsLChEd2iN/EeLTVD9s+cijLhmiC0MynNH8V1RVXXYiqlHWEfjlp2vw==",
+  "success": true,
+  "projectFilePath": "G:\\Data Ivan\\code\\C#\\AntSimulator\\Ant-Simulator\\AntSimulator\\AntSimulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivani\\.nuget\\packages\\microsoft.netcore.platforms\\6.0.0-preview.5.21301.5\\microsoft.netcore.platforms.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "C:\\Users\\ivani\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0-preview.5.21301.5\\microsoft.win32.systemevents.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "C:\\Users\\ivani\\.nuget\\packages\\system.drawing.common\\6.0.0-preview.5.21301.5\\system.drawing.common.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "C:\\Users\\ivani\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ivani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ivani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ivani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

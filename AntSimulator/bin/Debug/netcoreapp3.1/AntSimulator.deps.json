@@ -1,0 +1,92 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AntSimulator/1.0.0": {
+        "dependencies": {
+          "System.Drawing.Common": "6.0.0-preview.5.21301.5"
+        },
+        "runtime": {
+          "AntSimulator.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/6.0.0-preview.5.21301.5": {},
+      "Microsoft.Win32.SystemEvents/6.0.0-preview.5.21301.5": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "6.0.0-preview.5.21301.5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.30105"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.30105"
+          }
+        }
+      },
+      "System.Drawing.Common/6.0.0-preview.5.21301.5": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "6.0.0-preview.5.21301.5"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.30105"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.30105"
+          },
+          "runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.30105"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AntSimulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/6.0.0-preview.5.21301.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Tcmti2jnCmywbXAcQ/xJpz36A8uKStj7g0YEGaOgk/EqHXfZWMXgWDGscc4GF4Wc+kYBOns5dq3qM9ZmfLWqAg==",
+      "path": "microsoft.netcore.platforms/6.0.0-preview.5.21301.5",
+      "hashPath": "microsoft.netcore.platforms.6.0.0-preview.5.21301.5.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/6.0.0-preview.5.21301.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7jWTwc8pS5o/9vpB8JLU3XcMZ3uefpP84XG18j3ZUFtPKns6p7Jc0miZTBYsp4RUp2n9mzxeGwrVWFsJaYF5Aw==",
+      "path": "microsoft.win32.systemevents/6.0.0-preview.5.21301.5",
+      "hashPath": "microsoft.win32.systemevents.6.0.0-preview.5.21301.5.nupkg.sha512"
+    },
+    "System.Drawing.Common/6.0.0-preview.5.21301.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dOqX/GxgERR2VWs41Ue0A0zsTLyxNP2xYQJ6EUts6re3dZHOYZ79qwcZNXysUDqWm0+s8uUSOe9JIUY+Hx/BPQ==",
+      "path": "system.drawing.common/6.0.0-preview.5.21301.5",
+      "hashPath": "system.drawing.common.6.0.0-preview.5.21301.5.nupkg.sha512"
+    }
+  }
+}
